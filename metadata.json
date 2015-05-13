@@ -2,7 +2,7 @@
   "dependencies": {
     "apt": ">= 0.0.0"
   },
-  "name": "mongodb",
+  "name": "mongodb-opsworks",
   "maintainer_email": "markus.korn@edelight.de",
   "attributes": {
     "mongodb/sharded_collections": {
